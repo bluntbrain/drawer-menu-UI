@@ -1,3 +1,3 @@
 # drawer-menu-UI
 Cool UI transitions in drawer menu using React Native
-![](assets/demogif.gif | width=100)
+![](assets/demogif.gif)
